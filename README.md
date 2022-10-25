@@ -1,4 +1,4 @@
-<div style="background-color: ##e7f6ff">
+<div style="background-color: #e7f6ff">
   <h1 align="center">Hi 👋, I'm Daniel Khromenko</h1>
 <h3 align="center">A passionate front-end developer from Ukraine</h3>
 <img style="margin: auto;" src="https://gifimage.net/wp-content/uploads/2017/10/design-gif.gif" alt="Coding gif">
