@@ -24,8 +24,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khromenkodaniel&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="khromenkodaniel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khromenkodaniel&show_icons=true&locale=en&theme=tokyonight" alt="khromenkodaniel" /></p>
-![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=khromenkodaniel&&theme=xcode)(https://github.com/khromenkodaniel)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khromenkodaniel&&theme=tokyonight" alt="khromenkodaniel" /></p>
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=khromenkodaniel&&theme=xcode)(https://github.com/khromenkodaniel)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khromenkodaniel&&theme=tokyonight" alt="khromenkodaniel" /></p>]
 
 
 
