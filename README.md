@@ -36,7 +36,7 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></p>
-My pet-projects:<ul>
+<h3 align="left">My pet-projects:</h3><ul>
 <li><a href="https://github.com/KhromenkoDaniel/react-sneakers"><b>React Sneakers</b>✔️</a></li>
 <li><a href="https://github.com/KhromenkoDaniel/react-pizza"><b>Soon... React Pizza</b></a></li></ul>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khromenkodaniel&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="khromenkodaniel" />
