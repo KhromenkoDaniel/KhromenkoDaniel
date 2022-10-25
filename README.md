@@ -37,9 +37,8 @@
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></p>
 My pet-projects:<ul>
-<li><a href="https://github.com/KhromenkoDaniel/react-sneakers">React Sneakers</a></li>
-Soon...
-<li><a href="https://github.com/KhromenkoDaniel/react-pizza">React Pizza</a></li></ul>
+<li><a href="https://github.com/KhromenkoDaniel/react-sneakers"><b>React Sneakers</b>✔️</a></li>
+<li><a href="https://github.com/KhromenkoDaniel/react-pizza"><b>Soon... React Pizza</b></a></li></ul>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khromenkodaniel&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="khromenkodaniel" />
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khromenkodaniel&show_icons=true&locale=en&theme=tokyonight" alt="khromenkodaniel" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khromenkodaniel&&theme=tokyonight" alt="khromenkodaniel" /></p>
