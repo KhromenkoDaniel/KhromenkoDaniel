@@ -3,8 +3,6 @@
 <h3 align="center">A passionate front-end developer from Ukraine</h3>
 <img align="right" src="https://gifimage.net/wp-content/uploads/2017/10/design-gif.gif" alt="Coding gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khromenkodaniel" alt="khromenkodaniel" /></a> </p>
-
 - 🌱 I’m currently learning **React,ES6,Redux,TS**
 
 - 💬 Ask me about **react,ts,front-end**
