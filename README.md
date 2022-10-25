@@ -9,11 +9,11 @@
 
 - 📫 How to reach me **danyakhro.study@gmail.com**
 
-- ⚡ Fun fact **I am Funny and Interesting person**
+- ⚡ Facts about me **I am Funny and Interesting person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/danyil khromenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danyil khromenko" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/danyil-khromenko-119116249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danyil khromenko" height="30" width="40" /></a>
 <a href="https://instagram.com/daniel.khr18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daniel.khr18" height="30" width="40" /></a>
 <a href="https://discord.gg/BioDoniYT x_x-ϟϟAZOVϟϟ#5956" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BioDoniYT x_x-ϟϟAZOVϟϟ#5956" height="30" width="40" /></a>
 <a href="https://t.me/KhromenkoDaniel" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="KhromenkoDaniel" height="30" width="30" /></a>
