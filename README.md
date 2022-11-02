@@ -38,6 +38,7 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></p>
 <h3 align="left">My pet-projects:</h3><ul>
 <li><a href="https://github.com/KhromenkoDaniel/react-sneakers"><b>React Sneakers</b>✔️</a></li>
+  <li><a href="https://github.com/KhromenkoDaniel/react-random-number-generator"><b>React Random Number Generator</b>✔️</a></li>
 <li><a href="https://github.com/KhromenkoDaniel/react-pizza"><b>Soon... React Pizza</b></a></li></ul>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khromenkodaniel&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="khromenkodaniel" />
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khromenkodaniel&show_icons=true&locale=en&theme=tokyonight" alt="khromenkodaniel" />
