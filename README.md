@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react,ts,front-end**
 
-- 📫 How to reach me **danyakhro.study@gmail.com**
+- 📫 How to reach me **daniilkhro.work@gmail.com**
 
 - ⚡ Facts about me **I am Funny and Interesting person**
 
