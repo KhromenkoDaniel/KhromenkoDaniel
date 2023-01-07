@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React,ES6,Redux,TS**
 
-- 💬 Ask me about **react,ts,front-end**
+- 💬 Ask me about **react, front-end, react-native**
 
 - 📫 How to reach me **daniilkhro.work@gmail.com**
 
