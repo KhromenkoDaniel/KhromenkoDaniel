@@ -38,6 +38,7 @@
 <h4>Web Applications:</h4>
 <ul>
   <li><a href="https://github.com/KhromenkoDaniel/react-sneakers"><b>React Sneakers</b></a>✅</li>
+  <li><a href="https://github.com/KhromenkoDaniel/project_promptopia"><b>Promptopia</b></a>✅</li>
   <li><a href="https://github.com/KhromenkoDaniel/react-pizza"><b>Soon... React Pizza</b></a></li>
   <li><a href="https://github.com/KhromenkoDaniel/react-random-number-generator"><b>React Random Number Generator</b></a>✅</li>
 </ul>
