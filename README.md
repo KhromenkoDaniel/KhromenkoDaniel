@@ -2,9 +2,9 @@
 <h2 align="center">Front-end(React) developer from Ukraine <img src="https://cdn-icons-png.flaticon.com/512/303/303218.png" width="20" height="20" alt="Ukraine icon"></h2>
 <img align="right" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="Coding gif">
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Vue.js**
 
-- 💬 Ask me about **React | Front-end | React Native**
+- 💬 Ask me about **React | Next.js | Front-end | React Native**
 
 - 📫 How to reach me **daniilkhro.work@gmail.com**
 
